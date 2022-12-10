@@ -15,7 +15,6 @@ const ENV_OPTIONS: EnvOptions[] = [
   { name: "OWNERS", value: process.env["OWNERS"] },
   { name: "BUG_REPORTS_CHANNEL_ID", value: process.env["BUG_REPORTS_CHANNEL_ID"] },
   { name: "FEEDBACK_CHANNEL_ID", value: process.env["FEEDBACK_CHANNEL_ID"] },
-  { name: "OPEN_WEATHER_MAP_API_KEY", value: process.env["OPEN_WEATHER_MAP_API_KEY"] },
   { name: "ERRORLOGS_CHANNEL_ID", value: process.env["ERRORLOGS_CHANNEL_ID"] },
 
   // dashboard stuff
